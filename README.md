@@ -2,6 +2,11 @@
 
 A simple mod to save a single position to teleport back to later. This mod can be used for casual players who may want a easier experience or speed runners looking for a mod that just simply lets them try the same jump over and over again.
 
+## Controls
+
+Save Position: Page Up/Y Button
+Teleport: Page Down/A Button
+
 ## Setup
 
 Melonloader Version: 0.6.6
